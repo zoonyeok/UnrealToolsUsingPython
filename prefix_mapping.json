@@ -1,0 +1,7 @@
+{
+    "Blueprint": "BP_",
+    "StaticMesh": "SM_",
+    "Material": "M_",
+    "SKeletalMesh": "SK_",
+    "Texture2D": "T_"
+}
